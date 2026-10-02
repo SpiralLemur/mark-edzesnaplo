@@ -1,1 +1,1 @@
-Töltsd fel a mappa teljes tartalmát GitHubra, a mappaszerkezet megtartásával. A főfájl index.html.
+Mark Edzésnapló V5.1 gyorsított verzió. A képek WebP formátumúak, lazy loadingot használnak, és csak első megjelenéskor kerülnek cache-be. GitHubon írd felül az index.html, sw.js és manifest.webmanifest fájlokat, majd cseréld az images mappát.
