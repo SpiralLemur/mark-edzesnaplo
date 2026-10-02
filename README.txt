@@ -1,0 +1,1 @@
+Töltsd fel a mappa teljes tartalmát GitHubra, a mappaszerkezet megtartásával. A főfájl index.html.
