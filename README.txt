@@ -1,10 +1,14 @@
-Mark Edzésnapló V6
+Mark Edzésnapló V6.1
 
-Frissítések:
-- Hétfő: 1 teljes gépes kör + 10-15 perc séta 4,5 km/h sebességgel, 6-7% emelkedőn.
-- Szerda: 1 teljes gépes kör + 10-15 perc séta 4,5 km/h sebességgel, 6-7% emelkedőn.
-- Péntek: 1 teljes gépes kör + 35 perc séta 4,5 km/h sebességgel, 7% emelkedőn.
+Újdonság:
+- Minden gyakorlatnál külön „60 mp pihenő” gomb.
+- Lebegő visszaszámláló ablak, amely használat közben nyitva marad.
+- Újraindítás és bezárás gomb.
+- Lejáratkor piros vizuális jelzés és egy rezgési kísérlet a navigator.vibrate támogatásával.
+- Nincs hangjelzés, célsúly/cél derékbőség vagy „Mit edzettem a legtöbbet?” statisztika.
 - A korábbi naplóadatok megmaradnak, mert a tárolási kulcsok nem változtak.
-- A Service Worker gyorsítótár verziója mark-v6.
 
-GitHubon az index_v6.html fájlt nevezd át index.html-re, a sw_v6.js fájlt pedig sw.js-re, majd írd felül velük a régieket.
+GitHub frissítés:
+1. Az index_v6.1.html fájlt nevezd át index.html-re, és írd felül vele a régit.
+2. A sw_v6.1.js fájlt nevezd át sw.js-re, és írd felül vele a régit.
+3. A többi mappát és fájlt hagyd változatlanul.
